@@ -1,0 +1,144 @@
+*{
+  margin:0;
+  padding:0;
+  }
+body {
+  background-color:#EDEFED;
+}
+  #background
+{
+background-image:url(image/airbnb.png);
+background-repeat: no-repeat;
+background-size:100%;
+}
+img {
+padding-top:10px;
+margin-left:10px;
+}
+#liste ul {
+padding-top: 10px;
+display:inline-block;
+float:right;
+}
+
+ li {
+list-style-type: none;
+float: right;
+margin:20px;
+font-size:20px;
+}
+li a {
+color:white;
+text-decoration:none;
+list-style-type:none;
+}
+
+#dh  {
+  border:2px solid white;
+  border-radius:5px;
+}
+#dh:hover {
+  background-color:rgba(380,380,380,0.2);
+}
+#bienvenue {
+height:400px;
+width:100%;
+margin-top:200px;
+text-align:center;
+color:white;
+font-size:30px;
+}
+p{
+  margin-bottom:20px;
+}
+p a {
+background-color:rgba(350,350,350,0.5);
+text-decoration:none;
+border-radius:5px;
+color:white;
+}
+p a:hover {
+background-color:rgba(0,0,0,0.5);
+}
+
+#backgroundform {
+width:100%;
+height:100px;
+background-color:rgba(0,0,0,0.5);
+}
+form {
+height:100px;
+padding:35px 250px;
+display: inline-block;
+}
+fieldset {
+background-color:white;
+border:1px solid black;
+border-radius:5px;
+border:none;
+height:40px;
+}
+input {
+  border:none;
+  border-left:solid 1px #DCDCDC;
+  height:35px;
+  outline:none;
+}
+select{
+height:35px;
+background:none;
+border:none;
+border-left:solid 1px #DCDCDC;
+outline:none;
+}
+button
+{
+  background-color:rgba(255, 0, 0, 0.5);
+  font-size: 20px;
+  color:white;
+  height:40px;
+  border:none;
+  padding:0 20px;
+  outline:none;
+}
+button:hover {
+background-color:rgba(255, 0, 0, 0.5)
+}
+/*debut de la page 2*/
+
+#articlep2
+{
+height:300px;
+width:700px;
+background-color:white;
+padding:50px;
+margin:25px auto;
+}
+ #imgp2
+{
+height:300px;
+width:400px;
+float:right;
+padding:0;
+}
+h2 {
+margin-top:40px;
+}
+#articlep2 p{
+font-size:20px;
+margin-top:20px;
+color:#565A5C;
+}
+span a {
+text-decoration:none;
+margin-top:20px;
+padding:10px 50px;
+background-color:#007A87;
+font-size:20px;
+border-radius:5px;
+color:white;
+text-align: center;
+}
+span a:hover {
+background-color:#168692;
+}
