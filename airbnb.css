@@ -7,7 +7,7 @@ body {
 }
   #background
 {
-background-image:url(image/airbnb.png);
+background-image:url(airbnb69.jpg);
 background-repeat: no-repeat;
 background-size:100%;
 }
@@ -38,12 +38,12 @@ list-style-type:none;
   border-radius:5px;
 }
 #dh:hover {
-  background-color:rgba(380,380,380,0.2);
+  background-color:rgba(300,300,300,0.5);
 }
 #bienvenue {
 height:400px;
 width:100%;
-margin-top:200px;
+margin-top:170px;
 text-align:center;
 color:white;
 font-size:30px;
